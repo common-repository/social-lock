@@ -1,0 +1,57 @@
+	.timeTo {
+	font-family: Tahoma, Verdana, Aial, sans-serif;
+	font-size: 28px;
+	line-height: 108%;
+	font-weight: bold;
+	height: 32px;
+}
+.timeTo div {
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+}
+.timeTo ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 3px;
+}
+
+.timeTo ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.timeTo span {
+	vertical-align: top;
+}
+#sl_social_mwrap {
+background-color:#e9e9e9;
+border-radius:20px;
+margin:0 5%;
+min-height:50px;
+clear:both;
+padding:5px 30px 60px;
+}
+#sl_countdown {
+text-align:center;
+}
+#sl_social_wrap {
+margin:5% 20%;
+padding-top:10px;
+}
+
+#sl_lock_msg{
+clear:both;
+text-align:center;
+}
+.sl_button {
+float:left;
+}
+.sl_plusone {
+margin-top:8px;
+}
+.sl_twitter {
+margin-top:8px;
+}
